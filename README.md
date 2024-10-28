@@ -5,4 +5,5 @@ The first attempt to keep Factorio Standard Library (stdlib) alive. (*Someone ha
 This page is intended to inform you and invite you to participate.  
 People with organisational talent, specialist knowledge or simply interested people.
 
-Contact me using my [Discord](https://discord.gg/9EFYUmUw).
+Exchange ideas with each other in [Discussions](https://github.com/factorio-stdlib-project/home/discussions/1) or
+contact me using my [Discord](https://discord.gg/9EFYUmUw) channel.
